@@ -171,4 +171,4 @@ pip install torch torchvision matplotlib tqdm scikit-learn tensorflow
 - `notebook.ipynb`: The main Jupyter Notebook containing all the code for data loading, preprocessing, feature extraction, model training, and evaluation.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project was given and managed by German International University
